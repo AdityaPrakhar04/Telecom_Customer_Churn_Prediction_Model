@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder,OrdinalEncoder
 import pickle
 from feature_engineering import FeatureEngineering
 
